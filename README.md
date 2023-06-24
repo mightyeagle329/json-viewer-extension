@@ -5,11 +5,6 @@ A Chrome browser extension to visualize JSON response in awesome Tree and Chart 
 
 # Welcome to the JSON Viewer Pro. It is absolutely free and has no annoying advertisements.
 
-[![](https://raw.githubusercontent.com/rbrahul/Awesome-JSON-Viewer/master/chrome-web-store.png)](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
-
-
-
-
 ## Features
 
 * ✅ Beautify JSON response from API
@@ -25,19 +20,11 @@ A Chrome browser extension to visualize JSON response in awesome Tree and Chart 
 * ✅ Copy property and value
 * ✅ Access JSON in your console using only `json` keyword
 
-## Screen Shots
-![Awesome JSON](https://raw.githubusercontent.com/rbrahul/Awesome-JSON/master/awesome-json-slideshow.gif "Awesome JSON an awesome Chrome extension to assist development")
-
 # Your donation is appreciated
 
 ### Your small contribution inspires us.
 
 [![](https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=VQLQGCRJAAF3L)
-
-
-
-## Online JSON viewer(without any installation needed):
-[Awesome JSON View Online Editor with very limited features](https://rbrahul.github.io/Awesome-JSON-Viewer/# "Awesome JSON Viewer")
 
 
 
